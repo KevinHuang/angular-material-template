@@ -1,4 +1,4 @@
-Angular Gadget
+Angular Material Template
 ====
 
 ## Angular Material 的樣板，且具有呼叫 DSA Service 的 Library.
