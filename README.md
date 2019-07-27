@@ -1,8 +1,7 @@
 Angular Gadget
 ====
 
-## Gadget 清單
-* `25c70b56-4c70-4336-b74b-ef12d43064de` 線上點名
+## Angular Material 的樣板，且具有呼叫 DSA Service 的 Library.
 
 ## 前置要求
 * 安裝 Node.js
@@ -11,7 +10,7 @@ Angular Gadget
 * 安裝 Angular CLI (`yarn global add @angular/cli`)。
 
 ## 開始開發
-* `git clone https://github.com/gildarts/angulargadget mygadget`
+* `git clone https://github.com/KevinHuang/angular-material-template.git myproject`
 * `cd mygadget`
 * `yarn` #安裝套件
 * `yarn start` ＃啟動 angular server。
